@@ -1,0 +1,2 @@
+# IntelligentVoiceControl
+一个通过百度API进行语音识别，连接Linux服务器控制NXP开发板的智能项目
