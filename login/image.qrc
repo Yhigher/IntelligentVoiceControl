@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/windows.png</file>
+        <file>image/spiderman.png</file>
+    </qresource>
+</RCC>
